@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "User is unable to log in using correct credentials.",
+    "customer": "Rahim Uddin",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-01-01T10:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failed",
+    "description": "Payment gateway is rejecting valid card payments.",
+    "customer": "Karim Ahmed",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2026-01-02T09:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "UI Bug on Dashboard",
+    "description": "Dashboard widgets overlap on mobile view.",
+    "customer": "Nusrat Jahan",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-01-03T14:10:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Password Reset Email Not Sent",
+    "description": "Users are not receiving password reset emails.",
+    "customer": "Tanvir Hasan",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2026-01-04T11:45:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Slow Page Load",
+    "description": "Website loads very slowly during peak hours.",
+    "customer": "Farhana Akter",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-01-05T16:20:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Profile Update Error",
+    "description": "Users cannot save updated profile information.",
+    "customer": "Sabbir Rahman",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-01-06T13:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Notification Not Working",
+    "description": "Push notifications are not delivered.",
+    "customer": "Jannatul Ferdous",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-01-07T08:40:00Z"
+  },
+  {
+    "id": 8,
+    "title": "File Upload Failed",
+    "description": "Large files fail to upload to the server.",
+    "customer": "Mehedi Hasan",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-01-08T15:55:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Incorrect Invoice",
+    "description": "Generated invoice shows incorrect tax amount.",
+    "customer": "Rashed Mahmud",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2026-01-09T12:25:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Search Not Returning Results",
+    "description": "Search feature does not return any results.",
+    "customer": "Sumaiya Islam",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-01-10T09:10:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Email Verification Link Expired",
+    "description": "Verification link expires too quickly.",
+    "customer": "Arif Hossain",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2026-01-11T18:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Data Sync Issue",
+    "description": "Data is not syncing between mobile and web app.",
+    "customer": "Shuvo Das",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2026-01-12T07:50:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Broken Link",
+    "description": "Help center link leads to 404 page.",
+    "customer": "Mim Akter",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-01-13T11:35:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Logout Automatically",
+    "description": "Users are logged out automatically after few minutes.",
+    "customer": "Imran Khan",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-01-14T17:05:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Access Permission Error",
+    "description": "Users see permission denied error on admin page.",
+    "customer": "Nayeem Chowdhury",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-01-15T10:00:00Z"
+  }
+]

@@ -1,6 +1,6 @@
 
 import './App.css'
-import Banner from './assets/Comonents/Navber/Banner/Banner'
+import Banner from './assets/Comonents/Banner/Banner'
 import Navber from './assets/Comonents/Navber/Navber'
 
 function App() {
