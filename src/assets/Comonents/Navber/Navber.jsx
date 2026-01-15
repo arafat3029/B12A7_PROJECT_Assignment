@@ -2,7 +2,7 @@ import React from "react";
 
 const Navber = () => {
   return (
-    <div className="shadow-sm">
+    <div className="shadow-sm bg-white">
       <div className="navbar flex flex-col md:flex-row xl:flex-wrap justify-between items-center p-4 max-w-7xl mx-auto ">
         <div className="flex-1">
           <a className=" btn-ghost text-xl font-bold text-[#130B2D]">CS — Ticket System</a>

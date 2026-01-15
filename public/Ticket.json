@@ -1,137 +1,128 @@
 [
   {
-    "id": 1,
+    "id": 101,
     "title": "Login Issue",
-    "description": "User is unable to log in using correct credentials.",
+    "description": "User is unable to log in even after entering correct username and password. The system keeps showing an authentication error message which prevents access to the dashboard.",
     "customer": "Rahim Uddin",
     "priority": "High",
     "status": "Open",
-    "createdAt": "2026-01-01T10:15:00Z"
+    "createdAt": "2026-01-01"
   },
   {
-    "id": 2,
+    "id": 102,
     "title": "Payment Failed",
-    "description": "Payment gateway is rejecting valid card payments.",
+    "description": "Payment gateway is rejecting valid card payments from multiple users. Transactions are not completed and users are seeing failure messages after submitting payment details.",
     "customer": "Karim Ahmed",
     "priority": "Critical",
     "status": "In Progress",
-    "createdAt": "2026-01-02T09:30:00Z"
+    "createdAt": "2026-01-02"
   },
   {
-    "id": 3,
+    "id": 103,
     "title": "UI Bug on Dashboard",
-    "description": "Dashboard widgets overlap on mobile view.",
+    "description": "Dashboard widgets overlap with each other on mobile view, making it difficult for users to read information and interact with buttons properly.",
     "customer": "Nusrat Jahan",
     "priority": "Medium",
     "status": "Open",
-    "createdAt": "2026-01-03T14:10:00Z"
+    "createdAt": "2026-01-03"
   },
   {
-    "id": 4,
+    "id": 104,
     "title": "Password Reset Email Not Sent",
-    "description": "Users are not receiving password reset emails.",
+    "description": "Users are not receiving password reset emails after submitting their email address. As a result, they are unable to reset their passwords and regain account access.",
     "customer": "Tanvir Hasan",
     "priority": "High",
     "status": "Resolved",
-    "createdAt": "2026-01-04T11:45:00Z"
+    "createdAt": "2026-01-04"
   },
   {
-    "id": 5,
+    "id": 105,
     "title": "Slow Page Load",
-    "description": "Website loads very slowly during peak hours.",
+    "description": "Website pages take a long time to load during peak hours. This causes poor user experience and increases bounce rate significantly.",
     "customer": "Farhana Akter",
     "priority": "Medium",
     "status": "In Progress",
-    "createdAt": "2026-01-05T16:20:00Z"
+    "createdAt": "2026-01-05"
   },
   {
-    "id": 6,
+    "id": 106,
     "title": "Profile Update Error",
-    "description": "Users cannot save updated profile information.",
+    "description": "Users are unable to save updated profile information such as name, phone number, or address. An error message appears after clicking the save button.",
     "customer": "Sabbir Rahman",
     "priority": "High",
     "status": "Open",
-    "createdAt": "2026-01-06T13:00:00Z"
+    "createdAt": "2026-01-06"
   },
   {
-    "id": 7,
+    "id": 107,
     "title": "Notification Not Working",
-    "description": "Push notifications are not delivered.",
+    "description": "Push notifications are not being delivered to users’ devices. Important alerts and updates are being missed as a result.",
     "customer": "Jannatul Ferdous",
     "priority": "Low",
     "status": "Open",
-    "createdAt": "2026-01-07T08:40:00Z"
+    "createdAt": "2026-01-07"
   },
   {
-    "id": 8,
+    "id": 108,
     "title": "File Upload Failed",
-    "description": "Large files fail to upload to the server.",
+    "description": "Large files fail to upload to the server. Upload process stops midway or shows a server error, especially for files above the size limit.",
     "customer": "Mehedi Hasan",
     "priority": "High",
     "status": "In Progress",
-    "createdAt": "2026-01-08T15:55:00Z"
+    "createdAt": "2026-01-08"
   },
   {
-    "id": 9,
+    "id": 109,
     "title": "Incorrect Invoice",
-    "description": "Generated invoice shows incorrect tax amount.",
+    "description": "Generated invoices show incorrect tax calculations. The total amount does not match the expected value, causing confusion for customers.",
     "customer": "Rashed Mahmud",
     "priority": "Medium",
     "status": "Resolved",
-    "createdAt": "2026-01-09T12:25:00Z"
+    "createdAt": "2026-01-09"
   },
   {
-    "id": 10,
+    "id": 110,
     "title": "Search Not Returning Results",
-    "description": "Search feature does not return any results.",
+    "description": "Search feature does not return any results even when valid keywords are entered. Users are unable to find products or information.",
     "customer": "Sumaiya Islam",
     "priority": "High",
     "status": "Open",
-    "createdAt": "2026-01-10T09:10:00Z"
+    "createdAt": "2026-01-10"
   },
   {
-    "id": 11,
+    "id": 111,
     "title": "Email Verification Link Expired",
-    "description": "Verification link expires too quickly.",
+    "description": "Email verification links expire too quickly. Users often find the link invalid before they get a chance to verify their email address.",
     "customer": "Arif Hossain",
     "priority": "Low",
     "status": "Resolved",
-    "createdAt": "2026-01-11T18:00:00Z"
+    "createdAt": "2026-01-11"
   },
   {
-    "id": 12,
+    "id": 112,
     "title": "Data Sync Issue",
-    "description": "Data is not syncing between mobile and web app.",
+    "description": "Data is not syncing properly between the mobile application and the web application. Changes made on one platform do not appear on the other.",
     "customer": "Shuvo Das",
     "priority": "Critical",
     "status": "In Progress",
-    "createdAt": "2026-01-12T07:50:00Z"
+    "createdAt": "2026-01-12"
   },
   {
-    "id": 13,
+    "id": 113,
     "title": "Broken Link",
-    "description": "Help center link leads to 404 page.",
+    "description": "Help center link redirects users to a 404 error page. Users are unable to access support documentation or FAQs.",
     "customer": "Mim Akter",
     "priority": "Low",
     "status": "Open",
-    "createdAt": "2026-01-13T11:35:00Z"
+    "createdAt": "2026-01-13"
   },
   {
-    "id": 14,
+    "id": 114,
     "title": "Logout Automatically",
-    "description": "Users are logged out automatically after few minutes.",
+    "description": "Users are being logged out automatically after a few minutes of inactivity, even when they are actively using the application.",
     "customer": "Imran Khan",
     "priority": "Medium",
     "status": "In Progress",
-    "createdAt": "2026-01-14T17:05:00Z"
-  },
-  {
-    "id": 15,
-    "title": "Access Permission Error",
-    "description": "Users see permission denied error on admin page.",
-    "customer": "Nayeem Chowdhury",
-    "priority": "High",
-    "status": "Open",
-    "createdAt": "2026-01-15T10:00:00Z"
+    "createdAt": "2026-01-14"
   }
 ]

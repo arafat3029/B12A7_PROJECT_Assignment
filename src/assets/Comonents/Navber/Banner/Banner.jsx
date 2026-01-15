@@ -1,9 +1,9 @@
 import React from "react";
 import Victor from "../../../../assets/Vector1.png";
-const Banner = () => {
+const Banner = ({ takenTicket,  }) => {
   return (
-    <div className="bg-[#f5f5f5]">
-      <div className="max-w-7xl mx-auto flex justify-center items-center gap-5 py-10 ">
+    <div className="bg-[#ffffff]">
+      <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-center items-center gap-5 py-10 ">
         
         <div className="card bg-base-100 image-full w-155 h-50 shadow-sm">
           <figure className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2]">
@@ -18,7 +18,7 @@ const Banner = () => {
           </figure>
           <div className="card-body flex justify-center items-center">
             <h2 className="card-title">In-Progress</h2>
-            <h2 className="card-title text-6xl">0</h2>
+            <h2 className="card-title text-6xl">{takenTicket.length}</h2>
           </div>
         </div>
 
